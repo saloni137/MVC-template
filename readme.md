@@ -37,8 +37,6 @@ This project includes sample user collection its basic CRUD routes.
 
 ## Folder Structure
 
-Explain the folder structure of your project. Provide a brief description of each important folder and its purpose.
-
 ```
 .
 ├── config
